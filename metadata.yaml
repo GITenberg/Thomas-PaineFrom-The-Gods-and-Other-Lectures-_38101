@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2662
     wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38101#Thomas-PaineFrom-The-Gods-and-Other-Lectures-
 gutenberg_issued: '2011-11-22'
 gutenberg_type: Text
 identifiers:
