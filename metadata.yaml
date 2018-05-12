@@ -1,0 +1,33 @@
+_repo: Thomas-PaineFrom-The-Gods-and-Other-Lectures-_38101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Bob
+    - Ingersoll, Robert G. (Robert Green)
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paine, Thomas, 1737-1809'
+- !lcc 'JC'
+title: 'Thomas Paine
+
+  From ''The Gods and Other Lectures'''
+url: http://www.gutenberg.org/ebooks/38101
